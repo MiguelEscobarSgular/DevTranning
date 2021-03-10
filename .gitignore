@@ -1,0 +1,8 @@
+/.metadata/
+.sonarlint/
+
+*.jar
+
+*.class
+
+code/ms-portal-admin/bin/
